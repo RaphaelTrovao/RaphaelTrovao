@@ -3,7 +3,7 @@
 ### ▸ Techs:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,php,js,html,css," />
+  <img src="https://skillicons.dev/icons?i=c,php,js,html,css,java" />
 </a>
 
 ### ▸ Tools and Platforms:
